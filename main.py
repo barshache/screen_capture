@@ -7,8 +7,9 @@ import keyboard
 
 # import cv2
 
-pc_type = 'mac_air'
+# pc_type = 'mac_air'
 # pc_type = 'home_desktop'
+pc_type = 'office_desktop'
 
 previous_x, previous_y = 1, 1
 
